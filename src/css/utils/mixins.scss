@@ -1,0 +1,5 @@
+// FONTS MIXINS
+@mixin sizeWeight($size,$weight){
+font-size: $size;
+font-weight: $weight;
+}
